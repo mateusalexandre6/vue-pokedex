@@ -13,8 +13,8 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/vuetify-pokedex.git
-   cd vuetify-pokedex
+   git clone https://github.com/mateusalexandre6/vue-pokedex.git
+   cd vue-pokedex
    ```
 
 2. **Install dependencies:**
@@ -35,6 +35,9 @@ Before you begin, ensure you have the following installed on your machine:
 - **Details:** View detailed information about each Pokemon, including types, abilities, and base stats.
 
 ## Screenshots
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/screenshots/screen1.png)
+![Screenshot 2](/screenshots/screen3.png)
+![Screenshot 3](/screenshots/screen4.png)
+![Screenshot 4](/screenshots/screen5.png)
+
 
